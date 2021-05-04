@@ -1,2 +1,2 @@
 # tv
-Interactive website for a satellite TV provider.
+Interactive website about films and movies
